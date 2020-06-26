@@ -30,6 +30,7 @@ h4,
 h5,
 h6 {
 	margin: 0;
+	/* color: white; */
 	color: #212121;
 	font-weight: 500;
 }
@@ -1351,8 +1352,15 @@ ol {
 	.portfolio-box {
 		padding: 0;
 	}
-	.pf-2 {
+	/* .pf-2 {
 		padding-left: 15px;
+	} */
+	.pf-2 .control1{
+		padding-left: 60px;
+		padding-top: 10px;
+	}
+	.pf-2 .control2{
+		padding-left: 10px;
 	}
 	.portfolio-item.next-btn h2 {
 		font-size: 24px;
