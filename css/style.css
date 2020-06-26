@@ -1258,6 +1258,7 @@ ol {
 		text-align: center;
 		padding-bottom: 0;
 	}
+
 	.site-logo {
 		padding-left: 15px;
 		margin-bottom: 20px;
@@ -1353,15 +1354,14 @@ ol {
 		padding: 0;
 	}
 	/* .pf-2 {
-		padding-left: 15px;
+		padding-top: 10px;
 	} */
 	.pf-2 .control1{
-		padding-left: 60px;
-		padding-top: 10px;
+		padding-top: 20px;
 	}
-	.pf-2 .control2{
+	/* .pf-2 .control2{
 		padding-left: 10px;
-	}
+	} */
 	.portfolio-item.next-btn h2 {
 		font-size: 24px;
 	}
